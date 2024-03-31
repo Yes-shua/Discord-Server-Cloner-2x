@@ -1,2 +1,1 @@
-# Discord-Server-Cloner-2x
-
+# Plugin JJ's Aliucord
